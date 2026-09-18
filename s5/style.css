@@ -6,6 +6,9 @@
         --green: #284e36;
         --orange: #e37222;
         --rose: #c24d52;
+        --red:  #D90429;
+
+
     }
 
     * {
@@ -136,27 +139,23 @@
     }
 
     .card:nth-child(1) {
-        border-top: 4px solid var(--rose);
+        border-top: 4px solid var(--red);
     }
 
     .card:nth-child(2) {
-        border-top: 4px solid var(--rose);
+        border-top: 4px solid var(--red);
     }
 
     .card:nth-child(3) {
-        border-top: 4px solid var(--rose);
+        border-top: 4px solid var(--red);
     }
 
     .card:nth-child(4) {
-        border-top: 4px solid var(--rose);
+        border-top: 4px solid var(--red);
     }
 
     .card:nth-child(5) {
-        border-top: 4px solid var(--rose);
-    }
-
-     .card:nth-child(6) {
-        border-top: 4px solid var(--rose);
+        border-top: 4px solid var(--red);
     }
 
     footer {

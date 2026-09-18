@@ -136,15 +136,23 @@
     }
 
     .card:nth-child(1) {
-        border-top: 4px solid var(--blue);
+        border-top: 4px solid var(--rose);
     }
 
     .card:nth-child(2) {
-        border-top: 4px solid var(--green);
+        border-top: 4px solid var(--rose);
     }
 
     .card:nth-child(3) {
-        border-top: 4px solid var(--orange);
+        border-top: 4px solid var(--rose);
+    }
+
+    .card:nth-child(4) {
+        border-top: 4px solid var(--rose);
+    }
+
+    .card:nth-child(5) {
+        border-top: 4px solid var(--rose);
     }
 
     footer {

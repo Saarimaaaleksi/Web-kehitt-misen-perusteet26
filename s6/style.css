@@ -158,6 +158,10 @@
         border-top: 4px solid var(--red);
     }
 
+     .card:nth-child(5) {
+        border-top: 4px solid var(--red);
+    }
+
     footer {
         padding: 2rem 0;
         background-color: var(--dark);
